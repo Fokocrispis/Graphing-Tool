@@ -46,9 +46,9 @@ Watch data sort in real-time with color-coded states (red for active comparisons
 ## Screenshots
 
 ### Graphing modes 
-![Graphing Modes](resources/Screenshot-modes.jpg)
+![Graphing Modes](resources/Screenshot-modes.png)
 ### Mandelbrot Fractal
-![Mandelbrot Fractal](resources/Screenshot-Mandelbrot.jpg)
+![Mandelbrot Fractal](resources/Screenshot-Mandelbrot.png)
 
 ## Installation
 
