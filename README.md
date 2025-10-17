@@ -1,4 +1,4 @@
-# Proto Graph Plotter
+# Graph Plotter
 
 A versatile Java-based graphing and visualization tool that enables simultaneous display of multiple coordinate systems. Create mathematical function plots, visualize sorting algorithms in real-time, analyze audio frequencies, generate fractals, and more—all within a single application.
 
